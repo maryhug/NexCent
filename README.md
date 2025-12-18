@@ -1,9 +1,16 @@
 # Agency - Minimal Landing Page
-
 Landing page moderna y minimalista para una agencia creativa. Diseño clean con animaciones suaves y un enfoque en la experiencia de usuario.
+
+<img width="810" height="865" alt="image" src="https://github.com/user-attachments/assets/6fb5e42e-2f46-43c2-b332-7ead56cff7af" />
+<img width="846" height="604" alt="image" src="https://github.com/user-attachments/assets/9f91b2b2-4f50-4050-b168-0aed04ef8834" />
+<img width="995" height="662" alt="image" src="https://github.com/user-attachments/assets/9b147c7b-4540-4d6b-8a7e-f86393a4485e" />
+<img width="974" height="758" alt="image" src="https://github.com/user-attachments/assets/4661da7b-c94b-4f88-912d-a87607f07180" />
+<img width="616" height="750" alt="image" src="https://github.com/user-attachments/assets/37c771f3-3916-42e8-915c-7e911da8ede0" />
+
 
 ## Deploy Link
 https://maryhug.github.io/NexCent/
+
 ## ✨ Características
 
 - Diseño minimalista y profesional
